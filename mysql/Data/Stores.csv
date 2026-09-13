@@ -1,0 +1,26 @@
+store_id,store_name,city,state,region
+501,Store 1,Ahmedabad,Gujarat,West
+502,Store 2,Chennai,Tamil Nadu,South
+503,Store 3,Bengaluru,Karnataka,South
+504,Store 4,Kochi,Kerala,South
+505,Store 5,Vijayawada,Andhra Pradesh,South
+506,Store 6,Indore,Madhya Pradesh,West
+507,Store 7,Ranchi,Jharkhand,East
+508,Store 8,Ranchi,Jharkhand,East
+509,Store 9,Bengaluru,Karnataka,South
+510,Store 10,Ranchi,Jharkhand,East
+511,Store 11,Kochi,Kerala,South
+512,Store 12,Ludhiana,Punjab,North
+513,Store 13,Ludhiana,Punjab,North
+514,Store 14,Gurugram,Haryana,North
+515,Store 15,Jaipur,Rajasthan,North
+516,Store 16,Mumbai,Maharashtra,West
+517,Store 17,Gurugram,Haryana,North
+518,Store 18,Hyderabad,Telangana,South
+519,Store 19,Panaji,Goa,West
+520,Store 20,Hyderabad,Telangana,South
+521,Store 21,Bengaluru,Karnataka,South
+522,Store 22,Mumbai,Maharashtra,West
+523,Store 23,Hyderabad,Telangana,South
+524,Store 24,Guwahati,Assam,East
+525,Store 25,Ahmedabad,Gujarat,West
